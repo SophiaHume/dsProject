@@ -72,4 +72,4 @@ docker ps -a
 ```
 
 ## License
-[Winifred Zenabuin](https://www.linkedin.com/in/winifred-zenabuin-1b430b194/)
+[Sophia Hume]([https://www.linkedin.com/in/sophia-hume-3b75ab27b/)
